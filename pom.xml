@@ -29,9 +29,9 @@
                 <configuration>
                     <scriptdirectory>.</scriptdirectory>
                     <driver>com.mysql.jdbc.Driver</driver>
-                    <url>jdbc:mysql://192.168.0.103:3306/wgc</url>
-                    <userid>liquibase</userid>
-                    <password>liquibase123</password>
+                    <url>jdbc:mysql://localhost:3306/mysql</url>
+                    <userid>root</userid>
+                    <password>root</password>
                     <dbms>mysql</dbms>
                     <delimiter>;</delimiter>
                     <delimiterType>row</delimiterType>
