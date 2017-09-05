@@ -29,10 +29,10 @@
                 <configuration>
                     <scriptdirectory>.</scriptdirectory>
                     <driver>com.mysql.jdbc.Driver</driver>
-                    <url>jdbc:mysql://localhost:3306/mysql</url>
+                    <url>jdbc:mysql://localhost:3306/siva</url>
                     <userid>root</userid>
                     <password>root</password>
-                    <dbms>mysql</dbms>
+                    <dbms>siva</dbms>
                     <delimiter>;</delimiter>
                     <delimiterType>row</delimiterType>
                     <outputfile>${project.version}_apply.sql</outputfile>
