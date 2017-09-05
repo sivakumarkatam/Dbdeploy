@@ -1,1 +1,0 @@
-DELETE FROM Test WHERE id = 1;
