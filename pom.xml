@@ -30,8 +30,6 @@
                     <scriptdirectory>.</scriptdirectory>
                     <driver>com.mysql.jdbc.Driver</driver>
                     <url>jdbc:mysql://dbdeploytest.ck1zuoqmhhyf.ap-southeast-1.rds.amazonaws.com:3306/siva</url>
-                    <userid>dbdeploy</userid>
-                    <password>dbdeploy</password>
                     <dbms>siva</dbms>
                     <delimiter>;</delimiter>
                     <delimiterType>row</delimiterType>
